@@ -17,8 +17,7 @@ This project is a data analysis dashboard built using Python, Dash, Pandas, and 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/EshaanManchanda/data_analysis_dashboard.git
-   cd data_analysis_dashboard
+   git clone https://github.com/EshaanManchanda/Data-Analysis-Dashboard.git
 
 2. **Install Required Libraries**
 
