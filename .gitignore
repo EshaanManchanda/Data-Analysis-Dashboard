@@ -1,0 +1,4 @@
+# Ignore Python specific files
+__pycache__/
+__MACOSX/
+venv/
